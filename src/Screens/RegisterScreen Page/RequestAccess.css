@@ -1,0 +1,104 @@
+/* .w-100vw {
+    width: 100vw;
+  } */
+/* .h-100vh {
+    height: 100vh;
+  } */
+
+
+
+
+.mnh-50vh {
+  min-height: 50vh;
+}
+
+#loginLayout-img-ReqAccess {
+  background-image: url("../../Images/loginLayout.jpg");
+  background-size: cover;
+
+}
+
+#login-submit {
+  background-color: orangered;
+}
+
+.logo-reqAccess {
+  background-image: url("../../Images/Logo.png");
+  background-size: 100%;
+  height: 16vh;
+  width: 21vh;
+}
+
+.video_reqaccess {
+  /* aspect-ratio: 16/9; */
+  aspect-ratio: 16/9;
+  height: 25%;
+  border-radius: 10px;
+}
+
+.sub-head {
+  padding-left: 2em
+}
+
+#p1_access {
+  width: 68%;
+  padding-left: 6%;
+  font-family: 'poppins', sans-serif;
+  color:rgb(230, 230, 230);
+  width: 92% !important;
+  margin-left: 20px;
+}
+
+#p2_access {
+  font-family: 'poppins', sans-serif;
+  color:rgb(230, 230, 230);
+  width: 92% !important;
+  margin-left: 50px;
+}
+
+
+.w-100 {
+  width: 95% !important;
+}
+
+.heading {
+  margin-left: 12px;
+  margin-top: 50px;
+}
+
+/* CSS changes made on ----->13-10-2022 is as follows below */
+.spacing {
+  /* justify-content: space-between; */
+  justify-content: space-around;
+}
+
+@media (min-width: 768px) {
+  .col-md-6 {
+    flex: 0 0 auto;
+    width: 49%;
+  }
+}
+
+
+#alertStyle {
+  margin-left: 6%;
+  width: 88%;
+}
+
+#red {
+  color: red;
+}
+
+#thanks {
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+}
+
+#formfamily {
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+}
+
+#vidplayeraccess{
+  width: 85% !important;
+}
